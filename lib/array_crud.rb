@@ -35,7 +35,8 @@ def retrieve_first_element_from_array(array) ["Sun", "Moon", "Sky", "Rain"]
   
 end
 
-def retrieve_last_element_from_array(array)
+def retrieve_last_element_from_array(array) ["Sun", "Moon", "Sky", "Rain"]
+  retrieve_last_element_from_array[3]
   
 end
 
